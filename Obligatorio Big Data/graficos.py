@@ -7,9 +7,9 @@ import seaborn as sns
 import numpy as np
 from scipy.interpolate import make_interp_spline
 
-df_athletes_medals = pd.read_csv('./datos_clean/olympic_athletes_medals.csv')
-df_hosts = pd.read_csv('./datos/olympic_hosts.csv')
-df_results = pd.read_csv('./datos/olympic_results.csv')
+df_athletes_medals = pd.read_csv('datos/refined/olympic_athletes_medals.csv')
+df_hosts = pd.read_csv('datos/raw/olympic_hosts.csv')
+df_results = pd.read_csv('datos/raw/olympic_results.csv')
 
 # ======= 1) PAISES CON MAS MEDALLAS DORADAS POR DISCIPLINA (TOP 5 DISCIPLINAS) =======
 

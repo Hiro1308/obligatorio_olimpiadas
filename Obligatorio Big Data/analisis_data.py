@@ -1,10 +1,11 @@
 import pandas as pd
+from IPython.core.display_functions import display
 
 # ======= CARGA DE ARCHIVOS =======
-df_athletes = pd.read_csv('./datos/olympic_athletes.csv')
-df_hosts = pd.read_csv('./datos/olympic_hosts.csv')
-df_medals = pd.read_csv('./datos/olympic_medals.csv')
-df_results = pd.read_csv('./datos/olympic_results.csv')
+df_athletes = pd.read_csv('datos/raw/olympic_athletes.csv')
+df_hosts = pd.read_csv('datos/raw/olympic_hosts.csv')
+df_medals = pd.read_csv('datos/raw/olympic_medals.csv')
+df_results = pd.read_csv('datos/raw/olympic_results.csv')
 
 # ======= ANALISIS DE DATOS =======
 def spacer():
@@ -80,8 +81,8 @@ df_hosts_clean = limpiar_datos(df_hosts)
 df_results_clean = limpiar_datos(df_results)
 
 # Guardamos los DataFrames limpios en otra carpeta
-df_athletes_medals_clean.to_csv('./datos_clean/olympic_athletes_medals.csv', index=False)
-df_hosts_clean.to_csv('./datos_clean/olympic_hosts.csv', index=False)
-df_results_clean.to_csv('./datos_clean/olympic_results.csv', index=False)
+df_athletes_medals_clean.to_csv('datos/refined/olympic_athletes_medals.csv', index=False)
+df_hosts_clean.to_csv('datos/refined/olympic_hosts.csv', index=False)
+df_results_clean.to_csv('datos/refined/olympic_results.csv', index=False)
 
 
