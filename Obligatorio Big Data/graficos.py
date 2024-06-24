@@ -162,5 +162,25 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-# ======= 6)  =======
+# ======= 6) CANTIDAD DE PARTICIPACIONES POR GÉNERO A LO LARGO DEL TIEMPO =======
 
+# Agrupar los datos por año y género, y contar las participaciones
+gender_year = df_athletes_medals.groupby(['athlete_year_birth', 'event_gender']).size().reset_index(name='participations')
+
+# Crear una gráfica de línea para cada género
+plt.figure(figsize=(12, 8))
+
+# Filtrar datos por género
+for gender in gender_year['event_gender'].unique():
+    subset = gender_year[gender_year['event_gender'] == gender]
+    plt.plot(subset['athlete_year_birth'], subset['participations'], marker='o', label=gender)
+
+# Añadir etiquetas y título
+plt.xlabel('Año de Nacimiento')
+plt.ylabel('Cantidad de Participaciones')
+plt.title('Cantidad de participaciones por género a lo largo del tiempo')
+plt.legend(title='Género')
+plt.grid(True)
+plt.show()
+
+# ======= 7)  =======
