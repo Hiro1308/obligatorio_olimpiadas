@@ -10,6 +10,7 @@ from scipy.interpolate import make_interp_spline
 df_athletes_medals = pd.read_csv('datos/refined/olympic_athletes_medals.csv')
 df_hosts = pd.read_csv('datos/raw/olympic_hosts.csv')
 df_results = pd.read_csv('datos/raw/olympic_results.csv')
+mapa_path = 'mapa_asset/ne_110m_admin_0_countries.shp'
 
 # ======= 1) PAISES CON MAS MEDALLAS DORADAS POR DISCIPLINA (TOP 5 DISCIPLINAS) =======
 
@@ -71,50 +72,52 @@ plt.show()
 
 # ======= 3) CANTIDAD DE ATLETAS MEDALLISTAS DE ORO POR PAÍS EN MAPA =======
 
-# Filtramos solo las medallas doradas
+# Filtrar solo las medallas doradas
 gold_medals = df_athletes_medals[df_athletes_medals['medal_type'] == 'GOLD']
 
-# Agrupamos por país y contar los atletas
+# Agrupar por país y contar los atletas
 athletes_count = gold_medals['country_name'].value_counts().reset_index()
 athletes_count.columns = ['country_name', 'athlete_count']
 
-# Cargamos un shapefile del mundo (en este caso agarramos uno default)
-world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+# Cargar el shapefile del mundo
+world = gpd.read_file(mapa_path)
 
-# Unimos el DataFrame de atletas con el GeoDataFrame del mundo
-world = world.merge(athletes_count, how='left', left_on='name', right_on='country_name')
+# Unir el DataFrame de atletas con el GeoDataFrame del mundo
+world = world.merge(athletes_count, how='left', left_on='ADMIN', right_on='country_name')
 
-# Creamos el mapa interactivo
-map = folium.Map(location=[20, 0], zoom_start=2)
+# Crear el mapa interactivo con límite de zoom y tiles 'cartodb positron'
+map = folium.Map(location=[20, 0], zoom_start=2, tiles='cartodb positron', zoom_control=True, max_zoom=10, min_zoom=2)
 
+# Añadir los datos geográficos al mapa
 folium.Choropleth(
     geo_data=world,
     name='choropleth',
     data=world,
-    columns=['name', 'athlete_count'],
-    key_on='feature.properties.name',
+    columns=['ADMIN', 'athlete_count'],
+    key_on='feature.properties.ADMIN',
     fill_color='YlOrRd',
     fill_opacity=0.7,
     line_opacity=0.2,
     legend_name='Cantidad de Atletas'
 ).add_to(map)
 
+# Añadir popups y tooltips
 folium.GeoJson(
     world,
     style_function=lambda x: {'fillColor': '#ffffff00', 'color': 'black', 'weight': 0.5},
     tooltip=GeoJsonTooltip(
-        fields=['name', 'athlete_count'],
+        fields=['ADMIN', 'athlete_count'],
         aliases=['País', 'Cantidad de Atletas'],
         localize=True
     ),
     popup=GeoJsonPopup(
-        fields=['name', 'athlete_count'],
+        fields=['ADMIN', 'athlete_count'],
         aliases=['País', 'Cantidad de Atletas'],
         localize=True
     )
 ).add_to(map)
 
-# Mostramos el mapa
+# Mostrar el mapa
 map
 
 # ======= 4) TOP 10 ATLETAS CON MÁS PARTICIPACIONES COMO LOCALES EN LAS OLIMPIADAS =======
@@ -183,4 +186,84 @@ plt.legend(title='Género')
 plt.grid(True)
 plt.show()
 
-# ======= 7)  =======
+# ======= 7) CANTIDAD DE NACIONES PARTICIPANTES A LO LARGO DEL TIEMPO POR TEMPORADA =======
+
+# Unir los DataFrames en base a los juegos olímpicos
+df_merged = pd.merge(df_athletes_medals, df_hosts, left_on='slug_game', right_on='game_slug')
+
+# Agrupar por año y temporada, y contar las naciones participantes
+nations_per_year_season = df_merged.groupby(['game_year', 'game_season'])['country_name'].nunique().reset_index()
+
+# Crear una gráfica de línea para cada temporada
+plt.figure(figsize=(12, 8))
+
+# Filtrar datos por temporada
+for season in nations_per_year_season['game_season'].unique():
+    subset = nations_per_year_season[nations_per_year_season['game_season'] == season]
+    plt.plot(subset['game_year'], subset['country_name'], marker='o', label=season)
+
+# Añadir etiquetas y título
+plt.xlabel('Año')
+plt.ylabel('Cantidad de Naciones')
+plt.title('Cantidad de Naciones Participantes a lo largo del Tiempo por Temporada')
+plt.legend(title='Temporada')
+plt.grid(True)
+plt.show()
+
+# ======= 8) EDAD DEL ATLETA MAS JOVEN CON MEDALLA DE ORO EN INVIERNO =======
+
+# Fusionar los DataFrames en base a los juegos olímpicos
+df_merged = pd.merge(df_athletes_medals, df_hosts, left_on='slug_game', right_on='game_slug')
+
+# Extraer el año de la columna 'slug_game'
+df_merged['year'] = df_merged['slug_game'].str.extract('-(\d{4})').astype(int)
+
+# Filtrar los datos para obtener solo los eventos de invierno y las medallas de oro
+winter_gold_medals = df_merged[(df_merged['game_season'] == 'Winter') & (df_merged['medal_type'] == 'GOLD')].copy()
+
+# Calcular la edad de cada atleta en el momento de ganar la medalla
+winter_gold_medals['age'] = winter_gold_medals['year'] - winter_gold_medals['athlete_year_birth']
+
+# Encontrar el jugador más joven en cada país
+youngest_winter_gold_medalists = winter_gold_medals.loc[winter_gold_medals.groupby('country_name')['age'].idxmin()]
+
+# Cargar el shapefile del mundo
+world = gpd.read_file(mapa_path)
+
+# Unir el DataFrame de atletas jóvenes con el GeoDataFrame del mundo
+world = world.merge(youngest_winter_gold_medalists[['country_name', 'athlete_full_name', 'age']], how='left', left_on='ADMIN', right_on='country_name')
+
+# Crear el mapa interactivo con límite de zoom y tiles 'cartodb positron'
+mapa = folium.Map(location=[20, 0], zoom_start=2, tiles='cartodb positron', zoom_control=True, max_zoom=10, min_zoom=2)
+
+# Añadir los datos geográficos al mapa
+folium.Choropleth(
+    geo_data=world,
+    name='choropleth',
+    data=world,
+    columns=['ADMIN', 'age'],
+    key_on='feature.properties.ADMIN',
+    fill_color='YlOrRd',
+    fill_opacity=0.7,
+    line_opacity=0.2,
+    legend_name='Edad del Atleta Más Joven con Medalla de Oro en Invierno'
+).add_to(mapa)
+
+# Añadir popups y tooltips
+folium.GeoJson(
+    world,
+    style_function=lambda x: {'fillColor': '#ffffff00', 'color': 'black', 'weight': 0.5},
+    tooltip=GeoJsonTooltip(
+        fields=['ADMIN', 'athlete_full_name', 'age'],
+        aliases=['País', 'Nombre del Atleta', 'Edad'],
+        localize=True
+    ),
+    popup=GeoJsonPopup(
+        fields=['ADMIN', 'athlete_full_name', 'age'],
+        aliases=['País', 'Nombre del Atleta', 'Edad'],
+        localize=True
+    )
+).add_to(mapa)
+
+# Mostrar el mapa
+mapa
