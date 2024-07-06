@@ -2,10 +2,10 @@ import pandas as pd
 from IPython.core.display_functions import display
 
 # ======= CARGA DE ARCHIVOS =======
-df_athletes = pd.read_csv('datos/raw/olympic_athletes.csv')
-df_hosts = pd.read_csv('datos/raw/olympic_hosts.csv')
-df_medals = pd.read_csv('datos/raw/olympic_medals.csv')
-df_results = pd.read_csv('datos/raw/olympic_results.csv')
+df_athletes = pd.read_csv('../datos/raw/olympic_athletes.csv')
+df_hosts = pd.read_csv('../datos/raw/olympic_hosts.csv')
+df_medals = pd.read_csv('../datos/raw/olympic_medals.csv')
+df_results = pd.read_csv('../datos/raw/olympic_results.csv')
 
 # ======= ANALISIS DE DATOS =======
 def spacer():

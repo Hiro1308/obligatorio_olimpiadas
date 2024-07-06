@@ -8,9 +8,9 @@ import numpy as np
 from scipy.interpolate import make_interp_spline
 
 df_athletes_medals = pd.read_csv('datos/refined/olympic_athletes_medals.csv')
-df_hosts = pd.read_csv('datos/raw/olympic_hosts.csv')
-df_results = pd.read_csv('datos/raw/olympic_results.csv')
-mapa_path = 'mapa_asset/ne_110m_admin_0_countries.shp'
+df_hosts = pd.read_csv('../datos/raw/olympic_hosts.csv')
+df_results = pd.read_csv('../datos/raw/olympic_results.csv')
+mapa_path = '../mapa_asset/ne_110m_admin_0_countries.shp'
 
 # ======= 1) PAISES CON MAS MEDALLAS DORADAS POR DISCIPLINA (TOP 5 DISCIPLINAS) =======
 
