@@ -2,6 +2,6 @@ jupyter==1.0.0
 numpy==1.26.4
 pandas==2.2.2
 geopandas==0.14.4
-folium
+folium==0.17.0
 matplotlib
 scipy
