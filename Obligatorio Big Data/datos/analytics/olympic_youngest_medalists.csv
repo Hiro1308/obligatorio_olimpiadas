@@ -1,0 +1,481 @@
+country_name,medal_type,game_season,athlete_full_name,age_at_medal
+Afghanistan,BRONZE,Summer,Rohullah NIKPAI,21.0
+Algeria,BRONZE,Summer,Mohamed BAHARI,20.0
+Algeria,GOLD,Summer,Taoufik MAKHLOUFI,24.0
+Algeria,SILVER,Summer,Ali SAIDI-SIEF,22.0
+Argentina,BRONZE,Summer,Francisco RISIGLIONE,19.0
+Argentina,GOLD,Summer,Alberto Santiago LOVELL,20.0
+Argentina,SILVER,Summer,Gabriela SABATINI,18.0
+Armenia,BRONZE,Summer,Artur ALEKSANYAN,21.0
+Armenia,GOLD,Summer,Armen NAZARYAN,14.0
+Armenia,SILVER,Summer,Simon MARTIROSYAN,19.0
+Australasia,BRONZE,Summer,Frank DE BEAUREPAIRE,17.0
+Australasia,GOLD,Summer,Fanny DURACK,20.0
+Australasia,SILVER,Summer,Frank DE BEAUREPAIRE,17.0
+Australia,BRONZE,Summer,Michelle PEARSON,-7.0
+Australia,BRONZE,Winter,Tess COADY,22.0
+Australia,GOLD,Summer,John ANDERSON,6.0
+Australia,GOLD,Winter,Dale BEGG-SMITH,21.0
+Australia,SILVER,Summer,Leisel JONES,15.0
+Australia,SILVER,Winter,Jarryd HUGHES,23.0
+Austria,BRONZE,Summer,Otto SCHEFF,19.0
+Austria,BRONZE,Winter,Ingrid WENDL,16.0
+Austria,GOLD,Summer,Ellen S. PREIS-MÜLLER,20.0
+Austria,GOLD,Winter,Manfred STENGL,18.0
+Austria,SILVER,Summer,Otto HERSCHMANN,19.0
+Austria,SILVER,Winter,Erik PAUSIN,16.0
+Azerbaijan,BRONZE,Summer,Valentin HRISTOV,18.0
+Azerbaijan,GOLD,Summer,Elnur MAMMADLI,20.0
+Azerbaijan,SILVER,Summer,Rovshan BAYRAMOV,21.0
+Bahamas,BRONZE,Summer,Leevan SANDS,27.0
+Bahamas,GOLD,Summer,Steven GARDINER,25.0
+Bahrain,GOLD,Summer,Ruth JEBET,20.0
+Bahrain,SILVER,Summer,Kalkidan GEZAHEGNE,29.0
+Barbados,BRONZE,Summer,Obadele THOMPSON,24.0
+Belarus,BRONZE,Summer,Alina HARNASKO,19.0
+Belarus,BRONZE,Winter,Alexei GRISHIN,23.0
+Belarus,GOLD,Summer,Victoria AZARENKA,23.0
+Belarus,GOLD,Winter,Darya DOMRACHEVA,28.0
+Belarus,SILVER,Summer,Yulia RASKINA,18.0
+Belarus,SILVER,Winter,Anton SMOLSKI,26.0
+Belgium,BRONZE,Summer,Ingrid LEMPEREUR,15.0
+Belgium,BRONZE,Winter,Robert VAN ZEEBROECK,19.0
+Belgium,GOLD,Summer,Charles DELPORTE,10.0
+Belgium,GOLD,Winter,Micheline LANNOY,23.0
+Belgium,SILVER,Summer,Michel VAARTEN,19.0
+Belgium,SILVER,Winter,Bart SWINGS,27.0
+Bermuda,BRONZE,Summer,Clarence HILL,25.0
+Bermuda,GOLD,Summer,Flora DUFFY,33.0
+Bohemia,SILVER,Summer,Frantisek JANDA-SUK,22.0
+Botswana,SILVER,Summer,Nijel AMOS,18.0
+Brazil,BRONZE,Summer,Alison DOS SANTOS,20.0
+Brazil,GOLD,Summer,Marcos Pinto Rizzo SOARES,19.0
+Brazil,SILVER,Summer,Rayssa LEAL,12.0
+Bulgaria,BRONZE,Summer,Georgi GEORGIEV,17.0
+Bulgaria,BRONZE,Winter,Ivan LEBANOV,23.0
+Bulgaria,GOLD,Summer,Armen NAZARYAN,18.0
+Bulgaria,GOLD,Winter,Ekaterina DAFOVSKA,23.0
+Bulgaria,SILVER,Summer,Antoaneta FRENKEVA,17.0
+Bulgaria,SILVER,Winter,Evgeniya RADANOVA,25.0
+Burkina Faso,BRONZE,Summer,Fabrice ZANGO HUGUES,27.0
+Burundi,GOLD,Summer,Venuste NIYONGABO,23.0
+Burundi,SILVER,Summer,Francine NIYONSABA,23.0
+Cameroon,BRONZE,Summer,Martin NDONGO-EBANGA,18.0
+Cameroon,GOLD,Summer,Françoise MBANGO ETONE,28.0
+Cameroon,SILVER,Summer,Joseph BESSALA,27.0
+Canada,BRONZE,Summer,Shannon SMITH,15.0
+Canada,BRONZE,Winter,Petra BURKA,18.0
+Canada,GOLD,Summer,Penny OLEKSIAK,16.0
+Canada,GOLD,Winter,Kathy KREINER,19.0
+Canada,SILVER,Summer,Penny OLEKSIAK,16.0
+Canada,SILVER,Winter,Debbi WILKES,18.0
+Chile,BRONZE,Summer,Claudio BARRIENTOS,22.0
+Chile,GOLD,Summer,Fernando GONZALEZ,24.0
+Chile,SILVER,Summer,Marlene AHRENS,23.0
+Chinese Taipei,BRONZE,Summer,Shu Ju CHI,18.0
+Chinese Taipei,GOLD,Summer,Shu-Ching HSU,21.0
+Chinese Taipei,SILVER,Summer,Yung Wei YANG,23.0
+Colombia,BRONZE,Summer,Oscar MUNOZ,19.0
+Colombia,GOLD,Summer,Mariana PAJÓN,21.0
+Colombia,SILVER,Summer,Leidy Yessenia SOLIS ARBOLEDA,18.0
+Costa Rica,BRONZE,Summer,Claudia POLL AHRENS,28.0
+Costa Rica,GOLD,Summer,Claudia POLL AHRENS,24.0
+Costa Rica,SILVER,Summer,Silvia POLL AHRENS,18.0
+Croatia,BRONZE,Summer,Martina ZUBCIC,19.0
+Croatia,BRONZE,Winter,Jakov FAK,23.0
+Croatia,GOLD,Summer,Sara KOLAK,21.0
+Croatia,GOLD,Winter,Janica KOSTELIC,20.0
+Croatia,SILVER,Summer,Duje DRAGANJA,21.0
+Croatia,SILVER,Winter,Janica KOSTELIC,20.0
+Cuba,BRONZE,Summer,Amarilys SAVON,18.0
+Cuba,GOLD,Summer,Ramon FONST,17.0
+Cuba,SILVER,Summer,Jose RODRIGUEZ,13.0
+Cyprus,SILVER,Summer,Pavlos KONTIDES,22.0
+Czech Republic,BRONZE,Summer,Tomas DVORAK,1.0
+Czech Republic,BRONZE,Winter,Martina SABLIKOVA,23.0
+Czech Republic,GOLD,Summer,Martin DOKTOR,22.0
+Czech Republic,GOLD,Winter,Eva SAMKOVA,21.0
+Czech Republic,SILVER,Summer,Lenka HYKOVA,19.0
+Czech Republic,SILVER,Winter,Gabriela KOUKALOVA,25.0
+Czechoslovakia,BRONZE,Summer,Jan FRANEK,20.0
+Czechoslovakia,BRONZE,Winter,Hana MASKOVA,-4.0
+Czechoslovakia,GOLD,Summer,Milena DUCHKOVA,16.0
+Czechoslovakia,GOLD,Winter,Ondrej NEPELA,21.0
+Czechoslovakia,SILVER,Summer,Jiri PECKA,8.0
+Czechoslovakia,SILVER,Winter,Pavel PLOC,24.0
+Côte d'Ivoire,BRONZE,Summer,Ruth Marie Christelle GBAGBI,22.0
+Côte d'Ivoire,GOLD,Summer,Cheick Sallah Junior CISSE,23.0
+Côte d'Ivoire,SILVER,Summer,Gabriel TIACOH,21.0
+Democratic People's Republic of Korea,BRONZE,Summer,Chun Hwa RYANG,21.0
+Democratic People's Republic of Korea,BRONZE,Winter,Ok Sil HWANG,20.0
+Democratic People's Republic of Korea,GOLD,Summer,Sun Hui KYE,17.0
+Democratic People's Republic of Korea,SILVER,Summer,Kuk Hyang KIM,17.0
+Denmark,BRONZE,Summer,Anders HARTINGTON-ANDERSEN,1.0
+Denmark,GOLD,Summer,Bent Peder Benjamin RASCH,18.0
+Denmark,SILVER,Summer,Ragnild Tove HVEGER,16.0
+Djibouti,BRONZE,Summer,Hussein AHMED SALAH,32.0
+Dominican Republic,BRONZE,Summer,Luisito PIE,22.0
+Dominican Republic,GOLD,Summer,Felix DIAZ,25.0
+Dominican Republic,SILVER,Summer,Luguelin SANTOS,19.0
+Ecuador,GOLD,Summer,Neisi Patricia DAJOMES BARRERA,22.0
+Ecuador,SILVER,Summer,Tamara Yajaira SALAZAR ARCE,23.0
+Egypt,BRONZE,Summer,Abir KHALIL,16.0
+Egypt,GOLD,Summer,Feryal ABDELAZIZ,21.0
+Egypt,SILVER,Summer,Abir KHALIL,20.0
+Eritrea,BRONZE,Summer,Zersenay TADESSE,22.0
+Estonia,BRONZE,Summer,Roman STEINBERG,22.0
+Estonia,BRONZE,Winter,Kelly SILDARU,20.0
+Estonia,GOLD,Summer,Osvald KAPP,23.0
+Estonia,GOLD,Winter,Kristina SMIGUN-VAEHI,29.0
+Estonia,SILVER,Summer,Alfred SCHMIDT,22.0
+Estonia,SILVER,Winter,Andrus VEERPALU,31.0
+Ethiopia,BRONZE,Summer,Tesfaye TOLA,16.0
+Ethiopia,GOLD,Summer,Selemon BAREGA,20.0
+Ethiopia,SILVER,Summer,Lamecha GIRMA,20.0
+Federal Republic of Germany,BRONZE,Summer,Petra ZINDLER,18.0
+Federal Republic of Germany,BRONZE,Winter,Margot GLOCKSHUBER,19.0
+Federal Republic of Germany,GOLD,Summer,Ulrike MEYFARTH,16.0
+Federal Republic of Germany,GOLD,Winter,Franz WEMBACHER,16.0
+Federal Republic of Germany,SILVER,Summer,Ulrike HOLMER,17.0
+Federal Republic of Germany,SILVER,Winter,Christa KINSHOFER GUETHLEIN,19.0
+Finland,BRONZE,Summer,Einari Allan TERÄSVIRTA,18.0
+Finland,BRONZE,Winter,Toni NIEMINEN,17.0
+Finland,GOLD,Summer,Tomi POIKOLAINEN,19.0
+Finland,GOLD,Winter,Toni NIEMINEN,17.0
+Finland,SILVER,Summer,Thorvald Lennart STRÖMBERG,21.0
+Finland,SILVER,Winter,Samppa LAJUNEN,19.0
+France,BRONZE,Summer,Laure MANAUDOU,18.0
+France,BRONZE,Winter,Coline MATTEL,19.0
+France,GOLD,Summer,Michel ROUSSEAU,7.0
+France,GOLD,Winter,Marielle GOITSCHEL,19.0
+France,SILVER,Summer,Christine (Kiki) CARON,16.0
+France,SILVER,Winter,Julia PEREIRA DE SOUSA MABILEAU,17.0
+Gabon,SILVER,Summer,Anthony Mylann OBAME,24.0
+Georgia,BRONZE,Summer,Dato MARSAGISHVILI,21.0
+Georgia,GOLD,Summer,Lasha BEKAURI,20.0
+Georgia,SILVER,Summer,Vladimer KHINCHEGASHVILI,21.0
+German Democratic Republic (Germany),BRONZE,Summer,Katrin MEISSNER,15.0
+German Democratic Republic (Germany),BRONZE,Winter,Jörg HOFFMANN,14.0
+German Democratic Republic (Germany),GOLD,Summer,Annelie EHRHARDT,13.0
+German Democratic Republic (Germany),GOLD,Winter,Jörg HOFFMANN,18.0
+German Democratic Republic (Germany),SILVER,Summer,Kornelia ENDER,14.0
+German Democratic Republic (Germany),SILVER,Winter,Andrea EHRIG,16.0
+Germany,BRONZE,Summer,Karl KÖTHER,-14.0
+Germany,BRONZE,Winter,Claudia PECHSTEIN,20.0
+Germany,GOLD,Summer,Ingrid Gulbin-Engel-Krämer,17.0
+Germany,GOLD,Winter,Maxi HERBER,16.0
+Germany,SILVER,Summer,Franziska VAN ALMSICK,14.0
+Germany,SILVER,Winter,Marika KILIUS,17.0
+Ghana,BRONZE,Summer,Samuel TAKYI,20.0
+Ghana,SILVER,Summer,Clement QUARTEY,22.0
+Great Britain,BRONZE,Summer,Sidney ROBINSON,-2.0
+Great Britain,BRONZE,Winter,Jeannette ALTWEGG,18.0
+Great Britain,GOLD,Summer,Judith Brenda GRINHAM,17.0
+Great Britain,GOLD,Winter,Jeannette ALTWEGG,22.0
+Great Britain,SILVER,Summer,John DALY,-81.0
+Great Britain,SILVER,Winter,Cecilia COLLEDGE,16.0
+Greece,BRONZE,Summer,Dimitrios LOUNDRAS,11.0
+Greece,GOLD,Summer,Ilias ILIADIS,18.0
+Greece,SILVER,Summer,Kharilaos VASILAKOS,20.0
+Grenada,BRONZE,Summer,Kirani JAMES,28.0
+Grenada,GOLD,Summer,Kirani JAMES,20.0
+Grenada,SILVER,Summer,Kirani JAMES,24.0
+Guatemala,SILVER,Summer,Erick BARRONDO,21.0
+Guyana,BRONZE,Summer,Michael ANTHONY,23.0
+Haiti,SILVER,Summer,Silvio M. CATOR,28.0
+"Hong Kong, China",BRONZE,Summer,Wai Sze LEE,25.0
+"Hong Kong, China",GOLD,Summer,Ka Long CHEUNG,23.0
+"Hong Kong, China",SILVER,Summer,Siobhan Bernadette HAUGHEY,23.0
+Hungary,BRONZE,Summer,Tamas Jr. BUDAY,0.0
+Hungary,BRONZE,Winter,Shaoang LIU,24.0
+Hungary,GOLD,Summer,Laszlo FABIAN,-7.0
+Hungary,GOLD,Winter,Shaoang LIU,24.0
+Hungary,SILVER,Summer,Tunde SZABO,3.0
+Hungary,SILVER,Winter,Ede KIRALY,22.0
+Iceland,BRONZE,Summer,Vala FLOSADOTTIR,22.0
+Iceland,SILVER,Summer,Vilhjalmur EINARSSON,22.0
+Independent Olympic Athletes,BRONZE,Summer,Stevan PLETIKOSIC,20.0
+Independent Olympic Athletes,GOLD,Summer,Fehaid ALDEEHANI,50.0
+Independent Olympic Athletes,SILVER,Summer,Jasna SEKARIC,27.0
+India,BRONZE,Summer,Saina NEHWAL,22.0
+India,GOLD,Summer,Neeraj CHOPRA,23.0
+India,SILVER,Summer,Pusarla Venkata SINDHU,21.0
+Indonesia,BRONZE,Summer,Windy Cantika AISAH,18.0
+Indonesia,GOLD,Summer,Susi SUSANTI,21.0
+Indonesia,SILVER,Summer,Raema Lisa RUMBEWAS,20.0
+Iraq,BRONZE,Summer,Abdul WAHID AZIZ,30.0
+Ireland,BRONZE,Summer,James Vincent MCCOURT,20.0
+Ireland,GOLD,Summer,Ronald Michael DELANY,21.0
+Ireland,SILVER,Summer,John MCNALLY,20.0
+Islamic Republic of Iran,BRONZE,Summer,Kimia Alizadeh Zenozi,18.0
+Islamic Republic of Iran,GOLD,Summer,Saeid MOHAMMADPOURKARKARAGH,19.0
+Islamic Republic of Iran,SILVER,Summer,Ali DAVOUDI,21.0
+Israel,BRONZE,Summer,Gal FRIDMAN,21.0
+Israel,GOLD,Summer,Linoy ASHRAM,21.0
+Israel,SILVER,Summer,Yael ARAD,25.0
+Italy,BRONZE,Summer,Stefano BATTISTELLI,18.0
+Italy,BRONZE,Winter,Isolde KOSTNER,19.0
+Italy,GOLD,Summer,Carlo ORLANDI,18.0
+Italy,GOLD,Winter,Paul HILDGARTNER,20.0
+Italy,SILVER,Summer,Federica PELLEGRINI,16.0
+Italy,SILVER,Winter,Mirko VUILLERMIN,21.0
+Jamaica,BRONZE,Summer,Merlene OTTEY-PAGE,20.0
+Jamaica,GOLD,Summer,Omar MCLEOD,22.0
+Jamaica,SILVER,Summer,James BECKFORD,21.0
+Japan,BRONZE,Summer,Takashi ONO,-28.0
+Japan,BRONZE,Winter,Kokomo MURASE,18.0
+Japan,GOLD,Summer,Takashi ONO,-24.0
+Japan,GOLD,Winter,Takafumi NISHITANI,19.0
+Japan,SILVER,Summer,Takashi ONO,-24.0
+Japan,SILVER,Winter,Ayumu HIRANO,16.0
+Jordan,BRONZE,Summer,Abdel Rahman ALMASATFA,24.0
+Jordan,GOLD,Summer,Ahmad ABUGHAUSH,20.0
+Jordan,SILVER,Summer,Saleh ELSHARABATY,22.0
+Kazakhstan,BRONZE,Summer,Sofya BERULTSEVA,20.0
+Kazakhstan,BRONZE,Winter,Denis TEN,21.0
+Kazakhstan,GOLD,Summer,Bekzat SATTARKHANOV,20.0
+Kazakhstan,GOLD,Winter,Vladimir SMIRNOV,30.0
+Kazakhstan,SILVER,Summer,Anna NURMUKHAMBETOVA,19.0
+Kazakhstan,SILVER,Winter,Vladimir SMIRNOV,30.0
+Kenya,BRONZE,Summer,Timothy KITUM,18.0
+Kenya,GOLD,Summer,Asbel KIPROP,19.0
+Kenya,SILVER,Summer,Brimin Kiprop KIPRUTO,19.0
+Kosovo,GOLD,Summer,Distria KRASNIQI,25.0
+Kuwait,BRONZE,Summer,Fehaid ALDEEHANI,34.0
+Kyrgyzstan,BRONZE,Summer,Meerim ZHUMANAZAROVA,21.0
+Kyrgyzstan,SILVER,Summer,Akzhol MAKHMUDOV,21.0
+Latvia,BRONZE,Summer,Janis SMEDINS,25.0
+Latvia,BRONZE,Winter,Oskars MELBARDIS,26.0
+Latvia,GOLD,Summer,Maris STROMBERGS,21.0
+Latvia,SILVER,Summer,Vadims VASILEVSKIS,22.0
+Latvia,SILVER,Winter,Andris SICS,25.0
+Lebanon,BRONZE,Summer,Khalil TAHA,20.0
+Lebanon,SILVER,Summer,Kheir Mohamed TARABULSI,22.0
+Liechtenstein,BRONZE,Winter,Hanni WENZEL,20.0
+Liechtenstein,GOLD,Winter,Hanni WENZEL,24.0
+Liechtenstein,SILVER,Winter,Andreas WENZEL,22.0
+Lithuania,BRONZE,Summer,Evaldas PETRAUSKAS,20.0
+Lithuania,GOLD,Summer,Ruta MEILUTYTE,15.0
+Lithuania,SILVER,Summer,Austra SKUJYTE,25.0
+Luxembourg,GOLD,Summer,Michel THEATO,22.0
+Luxembourg,SILVER,Winter,Marc GIRARDELLI,29.0
+MIX,BRONZE,Summer,Marion JONES,-75.0
+MIX,GOLD,Summer,John BOLAND,26.0
+MIX,SILVER,Summer,Max DECUGIS,18.0
+Malaysia,BRONZE,Summer,Pandelela Rinong PAMG,19.0
+Malaysia,SILVER,Summer,Pandelela Rinong PAMG,23.0
+Mauritius,BRONZE,Summer,Bruno JULIE,30.0
+Mexico,BRONZE,Summer,Erick Joel SANCHEZ,3.0
+Mexico,GOLD,Summer,Felipe MUNOZ,17.0
+Mexico,SILVER,Summer,Alejandra OROZCO,15.0
+Mongolia,BRONZE,Summer,Tsagaanbaatar KHASHBAATAR,20.0
+Mongolia,GOLD,Summer,Badar-Uugan ENKHBAT,23.0
+Mongolia,SILVER,Summer,Serdamba PUREVDORJ,23.0
+Morocco,BRONZE,Summer,Tahar TAMSAMANI,20.0
+Morocco,GOLD,Summer,Moulay Brahim BOUTAYEB,21.0
+Morocco,SILVER,Summer,Rachid EL BASIR,24.0
+Mozambique,BRONZE,Summer,Maria MUTOLA,24.0
+Mozambique,GOLD,Summer,Maria MUTOLA,28.0
+Namibia,SILVER,Summer,Christine MBOMA,17.0
+Netherlands,BRONZE,Summer,Laura SMULDERS,19.0
+Netherlands,BRONZE,Winter,Ireen WÜST,20.0
+Netherlands,GOLD,Summer,Dina Willemina Jacoba SENFF,16.0
+Netherlands,GOLD,Winter,Ireen WÜST,20.0
+Netherlands,SILVER,Summer,Willemyntje (Willy) DEN OUDEN,14.0
+Netherlands,SILVER,Winter,Sjoukje DIJKSTRA,18.0
+Netherlands Antilles,SILVER,Summer,Jan D. BOERSMA,20.0
+New Zealand,BRONZE,Summer,Eliza MCCARTNEY,20.0
+New Zealand,BRONZE,Winter,Zoi SADOWSKI SYNNOTT,17.0
+New Zealand,GOLD,Summer,Danyon Joseph LOADER,21.0
+New Zealand,GOLD,Winter,Nico PORTEOUS,21.0
+New Zealand,SILVER,Summer,Danyon Joseph LOADER,17.0
+New Zealand,SILVER,Winter,Zoi SADOWSKI SYNNOTT,21.0
+Niger,SILVER,Summer,Abdoulrazak ISSOUFOU ALFAGA,22.0
+Nigeria,BRONZE,Summer,Maryam USMAN,18.0
+Nigeria,GOLD,Summer,Chioma AJUNWA,25.0
+Nigeria,SILVER,Summer,Peter KONYEGWACHIE,19.0
+North Macedonia,BRONZE,Summer,Mogamed IBRAGIMOV,26.0
+North Macedonia,SILVER,Summer,Dejan GEORGIEVSKI,21.0
+Norway,BRONZE,Summer,Arne HALSE,21.0
+Norway,BRONZE,Winter,Sverre HAUGLI,-30.0
+Norway,GOLD,Summer,Peder Jr. LUNDE,18.0
+Norway,GOLD,Winter,Sonja HENIE,16.0
+Norway,SILVER,Summer,Sverre SÖRSDAL,20.0
+Norway,SILVER,Winter,Georg KROG,-10.0
+Olympic Athletes from Russia,BRONZE,Winter,Denis SPITSOV,22.0
+Olympic Athletes from Russia,GOLD,Winter,Alina ZAGITOVA,16.0
+Olympic Athletes from Russia,SILVER,Winter,Evgenia MEDVEDEVA,19.0
+Panama,BRONZE,Summer,Lloyd LABEACH,24.0
+Panama,GOLD,Summer,Irving SALADINO,25.0
+People's Republic of China,BRONZE,Summer,Yan WANG,-3.0
+People's Republic of China,BRONZE,Winter,Lu CHEN,18.0
+People's Republic of China,GOLD,Summer,Jun ZHANG,2.0
+People's Republic of China,GOLD,Winter,Yiming SU,18.0
+People's Republic of China,SILVER,Summer,Wei LIU,-2.0
+People's Republic of China,SILVER,Winter,Yan LI,14.0
+Peru,SILVER,Summer,Francisco BOZA,20.0
+Philippines,BRONZE,Summer,Roel VELASCO,20.0
+Philippines,GOLD,Summer,Hidilyn DIAZ,29.0
+Philippines,SILVER,Summer,Anthony N. VILLANUEVA,19.0
+Poland,BRONZE,Summer,Agnieszka CZOPEK,16.0
+Poland,BRONZE,Winter,Justyna KOWALCZYK,23.0
+Poland,GOLD,Summer,Kamila SKOLIMOWSKA,18.0
+Poland,GOLD,Winter,Wojciech FORTUNA,20.0
+Poland,SILVER,Summer,Irena Szewińska,18.0
+Poland,SILVER,Winter,Adam MALYSZ,25.0
+Portugal,BRONZE,Summer,Nuno DELGADO,24.0
+Portugal,GOLD,Summer,Nelson EVORA,24.0
+Portugal,SILVER,Summer,Fernando PIMENTA,23.0
+Puerto Rico,BRONZE,Summer,Orlando MALDONADO,17.0
+Puerto Rico,GOLD,Summer,Monica PUIG,23.0
+Puerto Rico,SILVER,Summer,Luis F. ORTIZ,19.0
+Qatar,BRONZE,Summer,Asaad Said Saif ASAAD,21.0
+Qatar,GOLD,Summer,Fares Ibrahim E. H. ELBAKH,22.0
+Qatar,SILVER,Summer,Mutaz Essa BARSHIM,21.0
+ROC,BRONZE,Summer,Angelina MELNIKOVA,20.0
+ROC,BRONZE,Winter,Anastasiia SMIRNOVA,20.0
+ROC,GOLD,Summer,Albert BATYRGAZIEV,22.0
+ROC,GOLD,Winter,Kamila VALIEVA,16.0
+ROC,SILVER,Summer,Anastasiia ILIANKOVA,19.0
+ROC,SILVER,Winter,Alexandra Trusova,18.0
+Republic of Korea,BRONZE,Summer,Young-Chul PARK,7.0
+Republic of Korea,BRONZE,Winter,Suk Hee SHIM,17.0
+Republic of Korea,GOLD,Summer,Je Deok KIM,16.0
+Republic of Korea,GOLD,Winter,Sun-Yu JIN,18.0
+Republic of Korea,SILVER,Summer,Sung-Soo PARK,18.0
+Republic of Korea,SILVER,Winter,Suk Hee SHIM,17.0
+Republic of Moldova,BRONZE,Summer,Serghei TARNOVSCHI,23.0
+Republic of Moldova,SILVER,Summer,Nicolae JURAVSCHI,32.0
+Romania,BRONZE,Summer,Gabriela POTORAC,15.0
+Romania,BRONZE,Winter,Nicolae NEAGOE,27.0
+Romania,GOLD,Summer,Sanda TOMA,10.0
+Romania,SILVER,Summer,Gabriela POTORAC,15.0
+Russian Federation,BRONZE,Summer,Maria PASEKA,17.0
+Russian Federation,BRONZE,Winter,Evgenia MEDVEDEVA,7.0
+Russian Federation,GOLD,Summer,Svetlana KHORKINA,17.0
+Russian Federation,GOLD,Winter,Adelina SOTNIKOVA,18.0
+Russian Federation,SILVER,Summer,Yulia KOLTUNOVA,15.0
+Russian Federation,SILVER,Winter,Evgeni Viktorovich PLUSHENKO,20.0
+Samoa,SILVER,Summer,Ele OPELOGE,23.0
+San Marino,BRONZE,Summer,Myles Nazem AMINE,24.0
+San Marino,SILVER,Summer,Alessandra PERILLI,32.0
+Saudi Arabia,BRONZE,Summer,Khaled ALEID,31.0
+Saudi Arabia,SILVER,Summer,Tareg HAMEDI,22.0
+Senegal,SILVER,Summer,El Hadji Amadou DIA BA,30.0
+Serbia,BRONZE,Summer,Novak DJOKOVIC,21.0
+Serbia,GOLD,Summer,Milica MANDIC,21.0
+Serbia,SILVER,Summer,Tijana BOGDANOVIC,18.0
+Serbia and Montenegro,BRONZE,Summer,Aleksandra IVOSEV,22.0
+Serbia and Montenegro,GOLD,Summer,Aleksandra IVOSEV,22.0
+Serbia and Montenegro,SILVER,Summer,Jasna SEKARIC,35.0
+Singapore,BRONZE,Summer,Tianwei FENG,26.0
+Singapore,GOLD,Summer,Joseph SCHOOLING,21.0
+Slovakia,BRONZE,Summer,Jozef GONCI,22.0
+Slovakia,BRONZE,Winter,Pavol HURAJT,32.0
+Slovakia,GOLD,Summer,Michal MARTIKAN,17.0
+Slovakia,GOLD,Winter,Anastasiya KUZMINA,26.0
+Slovakia,SILVER,Summer,Michal MARTIKAN,21.0
+Slovakia,SILVER,Winter,Radoslav ZIDEK,25.0
+Slovenia,BRONZE,Summer,Iztok COP,20.0
+Slovenia,BRONZE,Winter,Alenka DOVZAN,18.0
+Slovenia,GOLD,Summer,Janja GARNBERT,21.0
+Slovenia,GOLD,Winter,Ursa BOGATAJ,27.0
+Slovenia,SILVER,Summer,Sara ISAKOVIC,20.0
+Slovenia,SILVER,Winter,Peter PREVC,22.0
+South Africa,BRONZE,Summer,William MEYERS,17.0
+South Africa,GOLD,Summer,Joan Cynthia HARRISON,17.0
+South Africa,SILVER,Summer,Chad LE CLOS,20.0
+Soviet Union,BRONZE,Summer,Nina SAVINA,-41.0
+Soviet Union,BRONZE,Winter,Marina KLIMOVA,18.0
+Soviet Union,GOLD,Summer,Vladimir MOROZOV,-24.0
+Soviet Union,GOLD,Winter,Nikolay KRUGLOV,-5.0
+Soviet Union,SILVER,Summer,Aleksandr IVANOV,-6.0
+Soviet Union,SILVER,Winter,Marina CHERKASOVA,8.0
+Spain,BRONZE,Summer,Patricia MORENO,16.0
+Spain,BRONZE,Winter,Regino HERNANDEZ,27.0
+Spain,GOLD,Summer,Francisco SANCHEZ,16.0
+Spain,GOLD,Winter,Francisco FERNANDEZ OCHOA,22.0
+Spain,SILVER,Summer,Carolina PASCUAL GRACIA,16.0
+Spain,SILVER,Winter,Queralt CASTELLET,33.0
+Sri Lanka,SILVER,Summer,Susanthika JAYASINGHE,25.0
+Sudan,SILVER,Summer,Ismail Ahmed ISMAIL,24.0
+Suriname,BRONZE,Summer,Anthony Conrad NESTY,25.0
+Suriname,GOLD,Summer,Anthony Conrad NESTY,21.0
+Sweden,BRONZE,Summer,Jan KARLSSON,6.0
+Sweden,BRONZE,Winter,Gunnar LARSSON,17.0
+Sweden,GOLD,Summer,Ulrika KNAPE-LINDBERGH,17.0
+Sweden,GOLD,Winter,Jonny NILSSON,21.0
+Sweden,SILVER,Summer,Jan KARLSSON,6.0
+Sweden,SILVER,Winter,Sebastian SAMUELSSON,21.0
+Switzerland,BRONZE,Summer,Xaver KURMANN,20.0
+Switzerland,BRONZE,Winter,Erika HESS,18.0
+Switzerland,GOLD,Summer,Eugen MACK,21.0
+Switzerland,GOLD,Winter,Michela FIGINI,18.0
+Switzerland,SILVER,Summer,Wilhelm SCHÄRER,21.0
+Switzerland,SILVER,Winter,Mathilde GREMAUD,18.0
+Syrian Arab Republic,BRONZE,Summer,Naser AL SHAMI,22.0
+Syrian Arab Republic,GOLD,Summer,Ghada SHOUAA,24.0
+Tajikistan,BRONZE,Summer,Mavzuna CHORIEVA,20.0
+Tajikistan,GOLD,Summer,Dilshod NAZAROV,34.0
+Tajikistan,SILVER,Summer,Yusup ABDUSALOMOV,31.0
+Thailand,BRONZE,Summer,Panipak WONGPATTANAKIT,19.0
+Thailand,GOLD,Summer,Sukanya SRISURAT,21.0
+Thailand,SILVER,Summer,Tawin HANPRAB,18.0
+Togo,BRONZE,Summer,Benjamin BOUKPETI,27.0
+Tonga,SILVER,Summer,Paea WOLFGRAM,27.0
+Trinidad and Tobago,BRONZE,Summer,George BOVELL,21.0
+Trinidad and Tobago,GOLD,Summer,Keshorn WALCOTT,19.0
+Trinidad and Tobago,SILVER,Summer,Richard THOMPSON,23.0
+Tunisia,BRONZE,Summer,Oussama OUESLATI,20.0
+Tunisia,GOLD,Summer,Oussama MALLOULI,24.0
+Tunisia,SILVER,Summer,Mohamed GAMMOUDI,26.0
+Turkey,BRONZE,Summer,Hulya SENYURT GEBES,19.0
+Turkey,GOLD,Summer,Taner SAGIR,19.0
+Turkey,SILVER,Summer,Atagun YALCINKAYA,18.0
+Turkmenistan,SILVER,Summer,Polina GURYEVA,21.0
+Uganda,BRONZE,Summer,Leo RWABWOGO,19.0
+Uganda,GOLD,Summer,Peruth CHEMUTAI,21.0
+Uganda,SILVER,Summer,John MUGABI,20.0
+Ukraine,BRONZE,Summer,Marta FIEDINA,18.0
+Ukraine,BRONZE,Winter,Valentyna TSERBE-NESSINA,25.0
+Ukraine,GOLD,Summer,Yana KLOCHKOVA,18.0
+Ukraine,GOLD,Winter,Oksana BAIUL,17.0
+Ukraine,SILVER,Summer,Yana KLOCHKOVA,18.0
+Ukraine,SILVER,Winter,Olena PETROVA,26.0
+Unified Team,BRONZE,Summer,Dmitry SAUTIN,18.0
+Unified Team,BRONZE,Winter,Elena VAELBE TRUBITSINA,24.0
+Unified Team,GOLD,Summer,Elena RUDKOVSKAYA,19.0
+Unified Team,GOLD,Winter,Natalya MISHKUTYONOK,22.0
+Unified Team,SILVER,Summer,Elena MIROSHINA,18.0
+Unified Team,SILVER,Winter,Yelizaveta KOZHEVNIKOVA,19.0
+United Arab Emirates,BRONZE,Summer,Sergiu TOMA,29.0
+United Arab Emirates,GOLD,Summer,Shaikh Ahmed ALMAKTOUM,41.0
+United Republic of Tanzania,SILVER,Summer,Suleiman NYAMBUI,27.0
+United States of America,BRONZE,Summer,William NELSON,-80.0
+United States of America,BRONZE,Winter,Scott ALLEN,15.0
+United States of America,GOLD,Summer,John SMITH,-2.0
+United States of America,GOLD,Winter,Tara LIPINSKI,16.0
+United States of America,SILVER,Summer,Gary Jr. HALL,-6.0
+United States of America,SILVER,Winter,Edward MURPHY,-39.0
+Uruguay,BRONZE,Summer,Washington RODRIGUEZ,20.0
+Uruguay,SILVER,Summer,Eduardo G. RISSO,23.0
+Uzbekistan,BRONZE,Summer,Rishod SOBIROV,22.0
+Uzbekistan,GOLD,Summer,Akbar DJURAEV,21.0
+Uzbekistan,GOLD,Winter,Lina CHERYAZOVA,26.0
+Uzbekistan,SILVER,Summer,Bektemir MELIKUZIEV,20.0
+Venezuela,BRONZE,Summer,Rafael Antonio VIDAL CASTRO,20.0
+Venezuela,GOLD,Summer,Francisco BRITO,23.0
+Venezuela,SILVER,Summer,Yoel Segundo FINOL,20.0
+Vietnam,GOLD,Summer,Xuan Vinh HOANG,42.0
+Vietnam,SILVER,Summer,Anh Tuan HOANG,23.0
+"Virgin Islands, US",SILVER,Summer,Peter HOLMBERG,28.0
+West Indies Federation,BRONZE,Summer,George Ezekiel KERR,23.0
+Yugoslavia,BRONZE,Summer,Jasna REED,18.0
+Yugoslavia,BRONZE,Winter,Matjaz DEBELAK,23.0
+Yugoslavia,GOLD,Summer,Saban TRSTENA,19.0
+Yugoslavia,SILVER,Summer,Zoran PRIMORAC,19.0
+Yugoslavia,SILVER,Winter,Mateja SVET,20.0
+Zambia,SILVER,Summer,Samuel MATETE,28.0
+Zimbabwe,BRONZE,Summer,Kirsty Leigh COVENTRY,21.0
+Zimbabwe,GOLD,Summer,Kirsty Leigh COVENTRY,21.0
+Zimbabwe,SILVER,Summer,Kirsty Leigh COVENTRY,21.0

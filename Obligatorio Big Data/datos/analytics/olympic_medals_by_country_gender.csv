@@ -1,0 +1,727 @@
+converted_country_name,event_gender,medal_type,medal_count
+United States,Men,GOLD,639
+United States,Men,SILVER,554
+United States,Men,BRONZE,477
+Russia,Men,GOLD,357
+Russia,Men,BRONZE,315
+Russia,Men,SILVER,274
+Germany,Men,BRONZE,263
+United States,Women,GOLD,243
+Germany,Men,SILVER,222
+United States,Women,SILVER,221
+United States,Women,BRONZE,213
+Germany,Men,GOLD,196
+Germany,Women,SILVER,189
+France,Men,BRONZE,165
+Germany,Women,GOLD,161
+Russia,Women,SILVER,161
+United Kingdom,Men,BRONZE,161
+Russia,Women,BRONZE,159
+France,Men,SILVER,155
+United Kingdom,Men,SILVER,155
+Russia,Women,GOLD,151
+Germany,Women,BRONZE,150
+Sweden,Men,BRONZE,149
+France,Men,GOLD,140
+United Kingdom,Men,GOLD,139
+Italy,Men,GOLD,138
+Norway,Men,GOLD,136
+Italy,Men,BRONZE,135
+Sweden,Men,GOLD,129
+Sweden,Men,SILVER,126
+Japan,Men,BRONZE,125
+Finland,Men,BRONZE,122
+China,Women,GOLD,120
+Japan,Men,GOLD,118
+Finland,Men,GOLD,117
+Norway,Men,BRONZE,116
+Finland,Men,SILVER,111
+Japan,Men,SILVER,110
+Norway,Men,SILVER,106
+Italy,Men,SILVER,104
+Hungary,Men,BRONZE,101
+Hungary,Men,GOLD,99
+China,Women,SILVER,98
+China,Men,GOLD,96
+Hungary,Men,SILVER,94
+China,Women,BRONZE,90
+Canada,Men,BRONZE,89
+Poland,Men,BRONZE,86
+China,Men,SILVER,77
+Australia,Men,BRONZE,75
+Australia,Men,SILVER,73
+Austria,Men,BRONZE,72
+South Korea,Men,BRONZE,71
+Canada,Men,SILVER,71
+South Korea,Men,SILVER,71
+China,Men,BRONZE,70
+Cuba,Men,GOLD,69
+United Kingdom,Women,BRONZE,68
+Switzerland,Men,SILVER,66
+Switzerland,Men,BRONZE,65
+Switzerland,Men,GOLD,64
+Australia,Women,BRONZE,63
+Australia,Men,GOLD,63
+Netherlands,Women,GOLD,63
+South Korea,Men,GOLD,60
+Bulgaria,Men,SILVER,59
+Netherlands,Men,BRONZE,59
+Canada,Women,BRONZE,59
+Austria,Men,SILVER,59
+United Kingdom,Women,SILVER,57
+Romania,Men,BRONZE,56
+Australia,Women,GOLD,56
+Netherlands,Men,SILVER,55
+Netherlands,Women,BRONZE,54
+France,Women,SILVER,53
+Czechia,Men,BRONZE,53
+Canada,Men,GOLD,53
+Austria,Men,GOLD,52
+Cuba,Men,BRONZE,52
+Poland,Men,GOLD,52
+Netherlands,Men,GOLD,51
+Bulgaria,Men,BRONZE,50
+Canada,Women,SILVER,50
+Japan,Women,BRONZE,49
+France,Women,BRONZE,48
+Japan,Women,GOLD,48
+Italy,Women,BRONZE,48
+Czechia,Men,SILVER,46
+Australia,Women,SILVER,46
+Czechia,Men,GOLD,44
+United Kingdom,Women,GOLD,44
+Netherlands,Women,SILVER,44
+Italy,Women,SILVER,44
+Cuba,Men,SILVER,43
+Poland,Men,SILVER,43
+Romania,Women,GOLD,42
+France,Women,GOLD,40
+Bulgaria,Men,GOLD,40
+Canada,Women,GOLD,40
+Türkiye,Men,GOLD,39
+Denmark,Men,SILVER,38
+Italy,Women,GOLD,38
+Austria,Women,SILVER,37
+Austria,Women,BRONZE,37
+South Korea,Women,GOLD,37
+Brazil,Men,BRONZE,37
+Hungary,Women,GOLD,36
+Japan,Women,SILVER,35
+Greece,Men,SILVER,35
+Belgium,Men,SILVER,35
+Denmark,Men,BRONZE,34
+Romania,Men,SILVER,34
+Romania,Women,SILVER,34
+Romania,Women,BRONZE,33
+Greece,Men,BRONZE,33
+Türkiye,Men,BRONZE,30
+Unified Team,Men,GOLD,30
+Ukraine,Men,BRONZE,29
+Belgium,Men,BRONZE,29
+Kenya,Men,GOLD,28
+Kenya,Men,BRONZE,28
+Iran,Men,BRONZE,28
+Spain,Men,SILVER,28
+New Zealand,Men,BRONZE,28
+Kenya,Men,SILVER,28
+Ukraine,Women,BRONZE,28
+Czechia,Women,GOLD,27
+South Korea,Women,SILVER,27
+Germany,Open,GOLD,27
+Norway,Women,BRONZE,27
+Greece,Men,GOLD,27
+Switzerland,Women,GOLD,27
+South Korea,Women,BRONZE,26
+Sweden,Women,SILVER,26
+Hungary,Women,BRONZE,26
+Kazakhstan,Men,BRONZE,26
+Germany,Open,BRONZE,26
+Switzerland,Women,BRONZE,26
+Poland,Women,BRONZE,25
+Norway,Women,GOLD,25
+Germany,Open,SILVER,25
+Czechia,Women,BRONZE,24
+Iran,Men,SILVER,24
+Belarus,Men,BRONZE,24
+Austria,Women,GOLD,24
+Belgium,Men,GOLD,24
+Sweden,Women,GOLD,23
+Sweden,Women,BRONZE,23
+Bulgaria,Women,SILVER,23
+Iran,Men,GOLD,23
+Norway,Women,SILVER,23
+Türkiye,Men,SILVER,23
+Poland,Women,SILVER,22
+Romania,Men,GOLD,22
+Unified Team,Men,SILVER,22
+Spain,Men,BRONZE,22
+Cuba,Women,BRONZE,22
+United Kingdom,Open,GOLD,20
+United States,Open,SILVER,20
+South Africa,Men,SILVER,20
+Belarus,Men,SILVER,20
+Yugoslavia,Men,BRONZE,20
+South Africa,Men,BRONZE,20
+Kazakhstan,Men,SILVER,20
+Azerbaijan,Men,BRONZE,20
+New Zealand,Men,GOLD,19
+Bulgaria,Women,BRONZE,19
+Ukraine,Men,SILVER,19
+France,Open,BRONZE,19
+Ukraine,Men,GOLD,19
+Spain,Men,GOLD,19
+Finland,Women,BRONZE,19
+Hungary,Women,SILVER,19
+Cuba,Women,SILVER,18
+Switzerland,Women,SILVER,18
+South Africa,Men,GOLD,18
+Brazil,Men,SILVER,18
+Czechia,Women,SILVER,18
+Uzbekistan,Men,BRONZE,18
+Mexico,Men,BRONZE,17
+Finland,Women,SILVER,17
+Mexico,Men,SILVER,17
+United States,Open,GOLD,17
+Georgia,Men,BRONZE,17
+Spain,Women,SILVER,16
+Unified Team,Women,SILVER,16
+Ukraine,Women,GOLD,16
+United States,Open,BRONZE,16
+Brazil,Men,GOLD,16
+France,Open,GOLD,16
+North Korea,Men,BRONZE,16
+Belarus,Women,BRONZE,16
+Estonia,Men,BRONZE,15
+Spain,Women,BRONZE,15
+Unified Team,Men,BRONZE,15
+Yugoslavia,Men,GOLD,15
+Denmark,Women,BRONZE,15
+Poland,Women,GOLD,15
+Jamaica,Women,BRONZE,15
+Argentina,Men,BRONZE,15
+Yugoslavia,Men,SILVER,15
+Argentina,Men,SILVER,15
+Belarus,Women,SILVER,14
+Jamaica,Women,SILVER,14
+United Kingdom,Open,BRONZE,14
+Denmark,Men,GOLD,14
+Bulgaria,Women,GOLD,14
+Egypt,Men,BRONZE,14
+Norway,Open,GOLD,14
+Kenya,Women,SILVER,14
+United Kingdom,Open,SILVER,13
+Ethiopia,Men,GOLD,13
+Ukraine,Women,SILVER,13
+Unified Team,Women,BRONZE,13
+Unified Team,Women,GOLD,13
+Kazakhstan,Women,BRONZE,13
+Sweden,Open,SILVER,13
+Mongolia,Men,BRONZE,13
+Kazakhstan,Men,GOLD,13
+Jamaica,Men,SILVER,12
+Latvia,Men,SILVER,12
+New Zealand,Women,GOLD,12
+Russia,Open,GOLD,12
+Belgium,Women,BRONZE,12
+Georgia,Men,SILVER,12
+Russia,Open,SILVER,12
+Jamaica,Men,GOLD,12
+Croatia,Men,SILVER,12
+Ethiopia,Men,BRONZE,12
+France,Open,SILVER,12
+Slovenia,Men,SILVER,12
+Jamaica,Women,GOLD,11
+Slovenia,Women,BRONZE,11
+Argentina,Men,GOLD,11
+Azerbaijan,Men,SILVER,11
+Taiwan,Women,BRONZE,11
+Russia,Open,BRONZE,11
+Ireland,Men,BRONZE,11
+Belarus,Women,GOLD,11
+Finland,Women,GOLD,11
+Sweden,Open,BRONZE,10
+Uzbekistan,Men,GOLD,10
+Mexico,Women,BRONZE,10
+Ethiopia,Women,BRONZE,10
+Trinidad and Tobago,Men,BRONZE,10
+Egypt,Men,SILVER,10
+Thailand,Women,BRONZE,10
+Spain,Women,GOLD,10
+Ethiopia,Women,GOLD,10
+Estonia,Men,GOLD,10
+Netherlands,Open,SILVER,10
+Cuba,Women,GOLD,10
+Italy,Open,GOLD,10
+Morocco,Men,BRONZE,10
+Estonia,Men,SILVER,10
+Brazil,Women,BRONZE,10
+Georgia,Men,GOLD,10
+Mexico,Men,GOLD,10
+Slovakia,Men,SILVER,10
+New Zealand,Women,SILVER,10
+New Zealand,Women,BRONZE,9
+Mongolia,Men,SILVER,9
+Italy,Open,BRONZE,9
+North Korea,Women,SILVER,9
+North Korea,Men,GOLD,9
+India,Men,BRONZE,9
+Denmark,Open,SILVER,9
+Azerbaijan,Women,BRONZE,9
+New Zealand,Men,SILVER,9
+Latvia,Men,BRONZE,8
+MIX,Men,GOLD,8
+Indonesia,Men,BRONZE,8
+Russia,Mixed,SILVER,8
+Slovenia,Men,BRONZE,8
+Philippines,Men,BRONZE,8
+Denmark,Women,SILVER,8
+Norway,Open,SILVER,8
+Armenia,Men,BRONZE,8
+Armenia,Men,SILVER,8
+Denmark,Women,GOLD,8
+North Korea,Women,BRONZE,8
+North Korea,Men,SILVER,8
+Croatia,Women,GOLD,8
+Sweden,Open,GOLD,8
+Colombia,Men,BRONZE,8
+Colombia,Women,BRONZE,8
+New Zealand,Open,GOLD,7
+Slovakia,Women,SILVER,7
+Slovakia,Women,GOLD,7
+Jamaica,Men,BRONZE,7
+Croatia,Men,BRONZE,7
+Colombia,Men,SILVER,7
+Ireland,Men,SILVER,7
+Belgium,Women,GOLD,7
+Belarus,Men,GOLD,7
+Kenya,Women,BRONZE,7
+Kenya,Women,GOLD,7
+Algeria,Men,BRONZE,7
+Slovakia,Men,BRONZE,7
+Egypt,Men,GOLD,7
+South Africa,Women,GOLD,7
+Greece,Women,SILVER,7
+South Africa,Women,SILVER,7
+Ethiopia,Men,SILVER,7
+India,Men,SILVER,7
+Thailand,Men,BRONZE,7
+Morocco,Men,GOLD,6
+Venezuela,Men,SILVER,6
+Italy,Open,SILVER,6
+Venezuela,Men,BRONZE,6
+Uzbekistan,Men,SILVER,6
+Mexico,Women,SILVER,6
+India,Women,BRONZE,6
+Indonesia,Women,BRONZE,6
+Brazil,Women,SILVER,6
+Portugal,Men,BRONZE,6
+North Korea,Women,GOLD,6
+Taiwan,Men,SILVER,6
+Belgium,Open,BRONZE,6
+Azerbaijan,Men,GOLD,6
+Croatia,Men,GOLD,6
+Puerto Rico,Men,BRONZE,6
+Greece,Women,GOLD,6
+Lithuania,Men,BRONZE,6
+Denmark,Open,GOLD,6
+Ireland,Men,GOLD,6
+Indonesia,Women,SILVER,6
+Thailand,Women,GOLD,6
+Netherlands,Open,GOLD,6
+Slovenia,Women,GOLD,6
+Türkiye,Women,BRONZE,6
+Netherlands,Open,BRONZE,6
+Israel,Men,BRONZE,6
+MIX,Men,BRONZE,6
+Argentina,Women,SILVER,5
+Malaysia,Men,SILVER,5
+Kazakhstan,Women,SILVER,5
+Taiwan,Men,BRONZE,5
+Austria,Open,SILVER,5
+Australasia,Men,BRONZE,5
+Latvia,Men,GOLD,5
+Austria,Open,BRONZE,5
+MIX,Men,SILVER,5
+Switzerland,Open,BRONZE,5
+Ethiopia,Women,SILVER,5
+Taiwan,Women,GOLD,5
+Brazil,Women,GOLD,5
+New Zealand,Open,BRONZE,5
+China,Mixed,SILVER,5
+Slovenia,Men,GOLD,5
+Croatia,Women,BRONZE,5
+Thailand,Men,SILVER,5
+Colombia,Women,SILVER,5
+Indonesia,Men,SILVER,5
+Ireland,Women,GOLD,5
+Slovenia,Women,SILVER,5
+Tunisia,Men,BRONZE,5
+Trinidad and Tobago,Men,SILVER,5
+China,Mixed,GOLD,5
+Chile,Men,SILVER,5
+South Africa,Women,BRONZE,5
+Nigeria,Men,BRONZE,5
+Nigeria,Women,BRONZE,5
+Egypt,Women,BRONZE,5
+Lithuania,Men,SILVER,4
+Moldova,Men,BRONZE,4
+Namibia,Men,SILVER,4
+Russia,Mixed,BRONZE,4
+Nigeria,Women,SILVER,4
+Russia,Mixed,GOLD,4
+Malaysia,Men,BRONZE,4
+Morocco,Men,SILVER,4
+Mongolia,Women,BRONZE,4
+Portugal,Men,SILVER,4
+Qatar,Men,BRONZE,4
+Zimbabwe,Women,SILVER,4
+Hong Kong,Women,BRONZE,4
+Thailand,Men,GOLD,4
+Switzerland,Open,GOLD,4
+France,Mixed,GOLD,4
+United States,Mixed,GOLD,4
+Belgium,Open,SILVER,4
+Belgium,Open,GOLD,4
+Bahamas,Women,GOLD,4
+Slovakia,Men,GOLD,4
+Finland,Open,BRONZE,4
+Taiwan,Women,SILVER,4
+Estonia,Women,GOLD,4
+Chile,Men,BRONZE,4
+Australia,Open,BRONZE,4
+Colombia,Women,GOLD,4
+Serbia,Women,BRONZE,4
+Uganda,Men,SILVER,4
+Serbia,Men,BRONZE,4
+Tunisia,Men,GOLD,4
+Algeria,Men,SILVER,4
+Ghana,Men,BRONZE,4
+Brazil,Open,GOLD,3
+Uganda,Men,GOLD,3
+Canada,Open,BRONZE,3
+Uganda,Men,BRONZE,3
+Croatia,Women,SILVER,3
+Portugal,Women,BRONZE,3
+Türkiye,Women,SILVER,3
+Czechia,Open,GOLD,3
+Liechtenstein,Women,BRONZE,3
+Portugal,Open,SILVER,3
+Nigeria,Men,SILVER,3
+Philippines,Men,SILVER,3
+Algeria,Men,GOLD,3
+Zimbabwe,Women,GOLD,3
+Pakistan,Men,BRONZE,3
+Argentina,Open,SILVER,3
+Argentina,Women,BRONZE,3
+Australasia,Men,SILVER,3
+Poland,Open,GOLD,3
+Venezuela,Women,BRONZE,3
+Australia,Open,SILVER,3
+Azerbaijan,Women,SILVER,3
+Bahamas,Men,BRONZE,3
+Uruguay,Men,BRONZE,3
+Portugal,Men,GOLD,3
+Tunisia,Men,SILVER,3
+Liechtenstein,Men,BRONZE,3
+Switzerland,Open,SILVER,3
+Dominican Republic,Men,BRONZE,3
+Greece,Women,BRONZE,3
+Lithuania,Men,GOLD,3
+Lithuania,Women,GOLD,3
+Lithuania,Women,SILVER,3
+Luxembourg,Men,SILVER,3
+Serbia,Men,GOLD,3
+Serbia,Men,SILVER,3
+Kyrgyz Republic,Men,BRONZE,3
+Kuwait,Men,BRONZE,3
+Kosovo,Women,GOLD,3
+Kazakhstan,Women,GOLD,3
+Serbia,Women,GOLD,3
+India,Men,GOLD,3
+Spain,Open,BRONZE,3
+Indonesia,Men,GOLD,3
+Dominican Republic,Men,GOLD,3
+Thailand,Women,SILVER,3
+Dominican Republic,Men,SILVER,3
+Trinidad and Tobago,Men,GOLD,3
+Romania,Open,SILVER,2
+Puerto Rico,Women,GOLD,2
+West Indies Federation,Men,BRONZE,2
+Qatar,Men,GOLD,2
+Poland,Open,BRONZE,2
+Yugoslavia,Women,SILVER,2
+Yugoslavia,Women,GOLD,2
+Qatar,Men,SILVER,2
+Türkiye,Women,GOLD,2
+Saudi Arabia,Open,BRONZE,2
+Saudi Arabia,Men,SILVER,2
+Philippines,Women,SILVER,2
+Vietnam,Men,SILVER,2
+Ukraine,Mixed,BRONZE,2
+Syria,Men,BRONZE,2
+Taiwan,Men,GOLD,2
+Peru,Open,SILVER,2
+Portugal,Women,GOLD,2
+United States,Mixed,BRONZE,2
+Sweden,Mixed,BRONZE,2
+United States,Mixed,SILVER,2
+United Kingdom,Mixed,SILVER,2
+Puerto Rico,Men,SILVER,2
+Portugal,Women,SILVER,2
+Singapore,Women,BRONZE,2
+Serbia and Montenegro,Women,SILVER,2
+Uruguay,Men,SILVER,2
+Serbia,Women,SILVER,2
+Tanzania,Men,SILVER,2
+Venezuela,Men,GOLD,2
+Tunisia,Women,BRONZE,2
+Afghanistan,Men,BRONZE,2
+Canada,Mixed,GOLD,2
+MIX,Mixed,BRONZE,2
+Israel,Women,BRONZE,2
+Canada,Open,SILVER,2
+Canada,Mixed,SILVER,2
+Italy,Mixed,SILVER,2
+Japan,Mixed,BRONZE,2
+Canada,Mixed,BRONZE,2
+Cameroon,Women,GOLD,2
+Kyrgyz Republic,Men,SILVER,2
+Bulgaria,Open,BRONZE,2
+Latvia,Mixed,BRONZE,2
+Lebanon,Men,BRONZE,2
+Belgium,Women,SILVER,2
+Lebanon,Men,SILVER,2
+Bahrain,Women,SILVER,2
+Liechtenstein,Women,GOLD,2
+Bahrain,Women,GOLD,2
+Lithuania,Women,BRONZE,2
+Chile,Men,GOLD,2
+Israel,Men,GOLD,2
+Ireland,Women,SILVER,2
+Denmark,Mixed,BRONZE,2
+Fiji,Men,GOLD,2
+Germany,Mixed,GOLD,2
+Estonia,Women,BRONZE,2
+Ecuador,Men,GOLD,2
+Hong Kong,Women,SILVER,2
+Hungary,Mixed,BRONZE,2
+Denmark,Open,BRONZE,2
+Czechia,Open,SILVER,2
+Ireland,Women,BRONZE,2
+Cote d'Ivoire,Women,BRONZE,2
+Iceland,Men,SILVER,2
+Independent Olympic Athletes,Men,BRONZE,2
+Costa Rica,Women,BRONZE,2
+India,Women,SILVER,2
+Indonesia,Women,GOLD,2
+China,Mixed,BRONZE,2
+Luxembourg,Men,GOLD,2
+France,Mixed,SILVER,2
+Austria,Open,GOLD,2
+Bahamas,Men,GOLD,2
+Norway,Mixed,BRONZE,2
+Norway,Mixed,SILVER,2
+Norway,Open,BRONZE,2
+Australia,Open,GOLD,2
+Algeria,Women,GOLD,2
+Austria,Mixed,SILVER,2
+Panama,Men,BRONZE,2
+Morocco,Women,BRONZE,2
+Armenia,Men,GOLD,2
+Moldova,Men,SILVER,2
+Mexico,Women,GOLD,2
+Mongolia,Women,SILVER,2
+Mongolia,Men,GOLD,2
+Czechia,Mixed,SILVER,1
+Dominican Republic,Mixed,SILVER,1
+Djibouti,Men,BRONZE,1
+Argentina,Mixed,GOLD,1
+Tunisia,Women,GOLD,1
+Turkmenistan,Women,SILVER,1
+Fiji,Women,BRONZE,1
+Taiwan,Mixed,BRONZE,1
+Zimbabwe,Women,BRONZE,1
+Cuba,Open,SILVER,1
+Cuba,Open,BRONZE,1
+Yugoslavia,Women,BRONZE,1
+Finland,Open,GOLD,1
+Cote d'Ivoire,Men,SILVER,1
+Argentina,Women,GOLD,1
+Cote d'Ivoire,Men,GOLD,1
+Uganda,Women,GOLD,1
+Cyprus,Men,SILVER,1
+Zambia,Men,BRONZE,1
+Tajikistan,Men,BRONZE,1
+Dominican Republic,Women,BRONZE,1
+Tajikistan,Men,GOLD,1
+Tajikistan,Men,SILVER,1
+Tajikistan,Women,BRONZE,1
+Estonia,Women,SILVER,1
+Zambia,Men,SILVER,1
+Estonia,Open,BRONZE,1
+Eritrea,Men,BRONZE,1
+Egypt,Women,SILVER,1
+Egypt,Women,GOLD,1
+Ecuador,Women,SILVER,1
+Ecuador,Women,GOLD,1
+Togo,Men,BRONZE,1
+Tonga,Men,SILVER,1
+Costa Rica,Women,SILVER,1
+Ecuador,Men,SILVER,1
+Algeria,Women,BRONZE,1
+Dominican Republic,Women,SILVER,1
+Bahamas,Women,BRONZE,1
+Australasia,Women,GOLD,1
+Costa Rica,Women,GOLD,1
+Australasia,Men,GOLD,1
+United Kingdom,Mixed,BRONZE,1
+Cameroon,Women,BRONZE,1
+Cameroon,Men,SILVER,1
+Cameroon,Men,GOLD,1
+Cameroon,Men,BRONZE,1
+Burundi,Women,SILVER,1
+Burundi,Men,GOLD,1
+Burkina Faso,Men,BRONZE,1
+Azerbaijan,Women,GOLD,1
+Brazil,Open,SILVER,1
+Botswana,Men,SILVER,1
+Botswana,Men,BRONZE,1
+Bahamas,Men,SILVER,1
+Bermuda,Women,GOLD,1
+Bermuda,Men,BRONZE,1
+Barbados,Men,BRONZE,1
+Uruguay,Men,GOLD,1
+Bahamas,Open,BRONZE,1
+United States Virgin Islands,Open,SILVER,1
+Uzbekistan,Women,BRONZE,1
+Finland,Open,SILVER,1
+United Arab Emirates,Men,GOLD,1
+Venezuela,Women,SILVER,1
+Colombia,Open,SILVER,1
+Colombia,Men,GOLD,1
+Bahamas,Open,GOLD,1
+China,Open,GOLD,1
+Vietnam,Women,SILVER,1
+Chile,Women,SILVER,1
+Australasia,Women,SILVER,1
+Vietnam,Men,GOLD,1
+Chile,Open,SILVER,1
+United Arab Emirates,Men,BRONZE,1
+Venezuela,Women,GOLD,1
+Unified Team,Mixed,BRONZE,1
+Australia,Mixed,BRONZE,1
+Unified Team,Mixed,GOLD,1
+Unified Team,Mixed,SILVER,1
+Canada,Open,GOLD,1
+Austria,Mixed,BRONZE,1
+Uzbekistan,Women,GOLD,1
+Peru,Women,SILVER,1
+Grenada,Men,SILVER,1
+Syria,Women,GOLD,1
+Senegal,Men,SILVER,1
+Mauritius,Men,BRONZE,1
+Malaysia,Women,SILVER,1
+Malaysia,Women,BRONZE,1
+MIX,Open,GOLD,1
+Liechtenstein,Women,SILVER,1
+Liechtenstein,Men,SILVER,1
+Samoa,Women,SILVER,1
+San Marino,Men,BRONZE,1
+San Marino,Mixed,SILVER,1
+San Marino,Women,BRONZE,1
+Latvia,Women,SILVER,1
+Latvia,Open,SILVER,1
+Syria,Men,SILVER,1
+Kyrgyz Republic,Women,BRONZE,1
+Jordan,Men,SILVER,1
+Jordan,Men,GOLD,1
+Serbia and Montenegro,Men,BRONZE,1
+Serbia and Montenegro,Men,GOLD,1
+Serbia and Montenegro,Men,SILVER,1
+Serbia and Montenegro,Women,BRONZE,1
+Serbia and Montenegro,Women,GOLD,1
+Jordan,Men,BRONZE,1
+Singapore,Men,GOLD,1
+Singapore,Men,SILVER,1
+Mexico,Open,BRONZE,1
+Romania,Open,GOLD,1
+Romania,Open,BRONZE,1
+Montenegro,Women,SILVER,1
+Paraguay,Men,SILVER,1
+Philippines,Women,GOLD,1
+Panama,Men,GOLD,1
+Pakistan,Men,SILVER,1
+Pakistan,Men,GOLD,1
+Poland,Mixed,GOLD,1
+Norway,Mixed,GOLD,1
+North Macedonia,Men,SILVER,1
+North Macedonia,Men,BRONZE,1
+North Korea,Open,GOLD,1
+Nigeria,Women,GOLD,1
+Portugal,Open,BRONZE,1
+Nigeria,Men,GOLD,1
+Niger,Men,SILVER,1
+Niger,Men,BRONZE,1
+New Zealand,Open,SILVER,1
+Netherlands Antilles,Open,SILVER,1
+Netherlands,Mixed,SILVER,1
+Namibia,Women,SILVER,1
+Mozambique,Women,GOLD,1
+Mozambique,Women,BRONZE,1
+Morocco,Women,SILVER,1
+Morocco,Women,GOLD,1
+Japan,Open,SILVER,1
+Singapore,Women,SILVER,1
+Japan,Mixed,GOLD,1
+Sri Lanka,Men,SILVER,1
+Sudan,Men,SILVER,1
+Suriname,Men,BRONZE,1
+Suriname,Men,GOLD,1
+Hong Kong,Women,GOLD,1
+Hong Kong,Men,SILVER,1
+Sweden,Mixed,SILVER,1
+Hong Kong,Men,GOLD,1
+Haiti,Men,SILVER,1
+Haiti,Men,BRONZE,1
+Guyana,Men,BRONZE,1
+Guatemala,Men,SILVER,1
+Peru,Men,GOLD,1
+Grenada,Men,GOLD,1
+Grenada,Men,BRONZE,1
+Greece,Open,SILVER,1
+Switzerland,Mixed,GOLD,1
+Switzerland,Mixed,SILVER,1
+Greece,Open,GOLD,1
+Ghana,Men,SILVER,1
+Germany,Mixed,SILVER,1
+Germany,Mixed,BRONZE,1
+Georgia,Women,BRONZE,1
+Gabon,Men,SILVER,1
+Sri Lanka,Women,SILVER,1
+Hungary,Mixed,SILVER,1
+Slovakia,Women,BRONZE,1
+Hungary,Open,BRONZE,1
+Italy,Mixed,GOLD,1
+Italy,Mixed,BRONZE,1
+Israel,Women,SILVER,1
+Israel,Women,GOLD,1
+Slovenia,Mixed,GOLD,1
+Slovenia,Open,BRONZE,1
+Israel,Mixed,BRONZE,1
+Ireland,Open,BRONZE,1
+Iraq,Men,BRONZE,1
+Iran,Women,BRONZE,1
+Indonesia,Mixed,SILVER,1
+Indonesia,Mixed,GOLD,1
+Independent Olympic Athletes,Women,SILVER,1
+South Korea,Mixed,GOLD,1
+South Korea,Open,SILVER,1
+Independent Olympic Athletes,Women,BRONZE,1
+Independent Olympic Athletes,Men,GOLD,1
+Iceland,Women,BRONZE,1
+Iceland,Men,BRONZE,1
+Spain,Mixed,GOLD,1
+Hungary,Open,SILVER,1
+Spain,Open,GOLD,1
+Hungary,Open,GOLD,1
+Kyrgyz Republic,Women,SILVER,1
