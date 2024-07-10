@@ -1,0 +1,239 @@
+country_name,country_3_letter_code,converted_country_name
+Italy,ITA,Italy
+Norway,NOR,Norway
+Sweden,SWE,Sweden
+Great Britain,GBR,United Kingdom
+Canada,CAN,Canada
+Czech Republic,CZE,Czechia
+Switzerland,SUI,Switzerland
+United States of America,USA,United States
+People's Republic of China,CHN,China
+Australia,AUS,Australia
+Japan,JPN,Japan
+Republic of Korea,KOR,South Korea
+Denmark,DEN,Denmark
+ROC,ROC,Russia
+Finland,FIN,Finland
+Kazakhstan,KAZ,Kazakhstan
+France,FRA,France
+New Zealand,NZL,New Zealand
+Ireland,IRL,Ireland
+Austria,AUT,Austria
+Spain,ESP,Spain
+Germany,GER,Germany
+Estonia,EST,Estonia
+Chile,CHI,Chile
+Brazil,BRA,Brazil
+Belarus,BLR,Belarus
+Ukraine,UKR,Ukraine
+Netherlands,NED,Netherlands
+Hungary,HUN,Hungary
+Croatia,CRO,Croatia
+Poland,POL,Poland
+Belgium,BEL,Belgium
+Latvia,LAT,Latvia
+"Hong Kong, China",HKG,Hong Kong
+Israel,ISR,Israel
+Turkey,TUR,Türkiye
+Malta,MLT,Malta
+Andorra,AND,Andorra
+Slovenia,SLO,Slovenia
+Bulgaria,BUL,Bulgaria
+Slovakia,SVK,Slovakia
+Romania,ROU,Romania
+Georgia,GEO,Georgia
+Armenia,ARM,Armenia
+Lithuania,LTU,Lithuania
+Azerbaijan,AZE,Azerbaijan
+Mexico,MEX,Mexico
+Bosnia and Herzegovina,BIH,Bosnia and Herzegovina
+Republic of Moldova,MDA,Moldova
+Argentina,ARG,Argentina
+Chinese Taipei,TPE,Taiwan
+Puerto Rico,PUR,Puerto Rico
+Kyrgyzstan,KGZ,Kyrgyz Republic
+Colombia,COL,Colombia
+India,IND,India
+Portugal,POR,Portugal
+San Marino,SMR,San Marino
+Philippines,PHI,Philippines
+Lebanon,LBN,Lebanon
+Uzbekistan,UZB,Uzbekistan
+Albania,ALB,Albania
+Montenegro,MNE,Montenegro
+Greece,GRE,Greece
+Kosovo,KOS,Kosovo
+Luxembourg,LUX,Luxembourg
+Madagascar,MAD,Madagascar
+Cyprus,CYP,Cyprus
+Malaysia,MAS,Malaysia
+Haiti,HAI,Haiti
+Thailand,THA,Thailand
+Pakistan,PAK,Pakistan
+Democratic Republic of Timor-Leste,TLS,Timor-Leste
+Iceland,ISL,Iceland
+Monaco,MON,Monaco
+Serbia,SRB,Serbia
+Liechtenstein,LIE,Liechtenstein
+Bolivia,BOL,Bolivia
+Morocco,MAR,Morocco
+Ghana,GHA,Ghana
+Jamaica,JAM,Jamaica
+Eritrea,ERI,Eritrea
+Saudi Arabia,KSA,Saudi Arabia
+Peru,PER,Peru
+Ecuador,ECU,Ecuador
+Islamic Republic of Iran,IRI,Iran
+"Virgin Islands, US",ISV,United States Virgin Islands
+American Samoa,ASA,American Samoa
+Mongolia,MGL,Mongolia
+North Macedonia,MKD,North Macedonia
+Nigeria,NGR,Nigeria
+Trinidad and Tobago,TTO,Trinidad and Tobago
+Egypt,EGY,Egypt
+Indonesia,INA,Indonesia
+Cuba,CUB,Cuba
+Oman,OMA,Oman
+Venezuela,VEN,Venezuela
+Bangladesh,BAN,Bangladesh
+Afghanistan,AFG,Afghanistan
+Singapore,SGP,Singapore
+Bhutan,BHU,Bhutan
+Algeria,ALG,Algeria
+Sri Lanka,SRI,Sri Lanka
+Nepal,NEP,Nepal
+Refugee Olympic Team,EOR,Refugee Olympic Team
+Qatar,QAT,Qatar
+Kuwait,KUW,Kuwait
+Bahrain,BRN,Bahrain
+Senegal,SEN,Senegal
+Guatemala,GUA,Guatemala
+Iraq,IRQ,Iraq
+Jordan,JOR,Jordan
+Yemen,YEM,Yemen
+Tunisia,TUN,Tunisia
+Aruba,ARU,Aruba
+Myanmar,MYA,Myanmar
+Vietnam,VIE,Vietnam
+Nicaragua,NCA,Nicaragua
+United Arab Emirates,UAE,United Arab Emirates
+Dominican Republic,DOM,Dominican Republic
+South Africa,RSA,South Africa
+Sao Tome and Principe,STP,Sao Tome and Principe
+Samoa,SAM,Samoa
+Cook Islands,COK,Cook Islands
+Mozambique,MOZ,Mozambique
+Belize,BIZ,Belize
+Ethiopia,ETH,Ethiopia
+Costa Rica,CRC,Costa Rica
+Paraguay,PAR,Paraguay
+Namibia,NAM,Namibia
+Rwanda,RWA,Rwanda
+Burkina Faso,BUR,Burkina Faso
+Panama,PAN,Panama
+Zambia,ZAM,Zambia
+Côte d'Ivoire,CIV,Cote d'Ivoire
+Honduras,HON,Honduras
+Mauritius,MRI,Mauritius
+Eswatini,SWZ,Eswatini
+Uganda,UGA,Uganda
+Cameroon,CMR,Cameroon
+Democratic Republic of the Congo,COD,DR Congo
+Tajikistan,TJK,Tajikistan
+Kenya,KEN,Kenya
+Guyana,GUY,Guyana
+Burundi,BDI,Burundi
+Botswana,BOT,Botswana
+Cape Verde,CPV,Cabo Verde
+Somalia,SOM,Somalia
+El Salvador,ESA,El Salvador
+Antigua and Barbuda,ANT,Antigua and Barbuda
+Papua New Guinea,PNG,Papua New Guinea
+Angola,ANG,Angola
+Fiji,FIJ,Fiji
+Bermuda,BER,Bermuda
+Syrian Arab Republic,SYR,Syria
+Vanuatu,VAN,Vanuatu
+Togo,TOG,Togo
+Mali,MLI,Mali
+Gabon,GAB,Gabon
+Niger,NIG,Niger
+Tonga,TGA,Tonga
+Suriname,SUR,Suriname
+Maldives,MDV,Maldives
+Guinea-Bissau,GBS,Guinea-Bissau
+Guam,GUM,Guam
+Guinea,GUI,Guinea
+Zimbabwe,ZIM,Zimbabwe
+Chad,CHA,Chad
+Kiribati,KIR,Kiribati
+Comoros,COM,Comoros
+Uruguay,URU,Uruguay
+Sierra Leone,SLE,Sierra Leone
+Palestine,PLE,Palestine
+Sudan,SUD,Sudan
+Djibouti,DJI,Djibouti
+Gambia,GAM,Gambia
+Malawi,MAW,Malawi
+Libya,LBA,Libya
+Benin,BEN,Benin
+Seychelles,SEY,Seychelles
+Lao People's Democratic Republic,LAO,Laos
+Turkmenistan,TKM,Turkmenistan
+Solomon Islands,SOL,Solomon Islands
+Nauru,NRU,Nauru
+"Virgin Islands, British",IVB,British Virgin Islands
+Lesotho,LES,Lesotho
+United Republic of Tanzania,TAN,Tanzania
+Liberia,LBR,Liberia
+Bahamas,BAH,Bahamas
+Dominica,DMA,Dominica
+Grenada,GRN,Grenada
+Saint Lucia,LCA,St. Lucia
+Olympic Athletes from Russia,OAR,Russia
+Democratic People's Republic of Korea,PRK,North Korea
+The Former Yugoslav Republic of Macedonia,MKD,North Macedonia
+Korea Team,COR,South Korea
+Russian Federation,RUS,Russia
+Ivory Coast,CIV,Cote d'Ivoire
+Independent Olympic Athletes,IOA,Independent Olympic Athletes
+Barbados,BAR,Barbados
+Cambodia,CAM,Cambodia
+Equatorial Guinea,GEQ,Equatorial Guinea
+Congo,CGO,Congo Republic
+South Sudan,SSD,South Sudan
+Refugee Olympic Athletes,XXB,Refugee Olympic Athletes
+Marshall Islands,MHL,Marshall Islands
+Palau,PLW,Palau
+US Virgin Islands,ISV,United States Virgin Islands
+Federated States of Micronesia,FSM,"Micronesia, Fed. Sts."
+Central African Republic,CAF,Central African Republic
+Cayman Islands,CAY,Cayman Islands
+Brunei,BRU,Brunei Darussalam
+Saint Vincent and the Grenadines,VIN,St. Vincent and the Grenadines
+British Virgin Islands,IVB,British Virgin Islands
+Swaziland,SWZ,Eswatini
+Saint Kitts and Nevis,SKN,St. Kitts and Nevis
+Tuvalu,TUV,Tuvalu
+Netherlands Antilles,AHO,Netherlands Antilles
+Serbia and Montenegro,SCG,Serbia and Montenegro
+Unified Team,EUN,Unified Team
+Czechoslovakia,TCH,Czechia
+Mauritania,MTN,Mauritania
+Yugoslavia,YUG,Yugoslavia
+Soviet Union,URS,Russia
+Federal Republic of Germany,FRG,Germany
+German Democratic Republic (Germany),GDR,Germany
+Yemen Arab Republic,YAR,Yemen
+Yemen Democratic Republic,YMD,Yemen
+South Vietnam,VNM,Vietnam
+Rhodesia,RHO,Zimbabwe
+United Arab Republic,UAR,Egypt
+Malaya,MAL,Malaysia
+West Indies Federation,WIF,West Indies Federation
+North Borneo,NBO,Malaysia
+Saar,SAA,Germany
+MIX,MIX,MIX
+Australasia,ANZ,Australasia
+Bohemia,BOH,Czechia
+Newfoundland,NFL,Canada
